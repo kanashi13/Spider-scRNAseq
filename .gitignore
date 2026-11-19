@@ -1,0 +1,8 @@
+data/
+*.rds
+*.tar
+*.gz
+.Rhistory
+.RData
+.Rproj.user/
+tree*.txt
